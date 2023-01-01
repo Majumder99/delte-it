@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453735587 source:/home/jakaria/LAB6/sum/main.c
+	<stdio.h>
+	<pthread.h>
+
